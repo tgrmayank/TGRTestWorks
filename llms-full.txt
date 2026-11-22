@@ -1,0 +1,152 @@
+# TGR TestWorks – full site content
+
+> Free Android app by TGR Digital Agency to test apps, websites and games, report bugs and earn rewards withdrawable to UPI from ₹100.
+
+Site: https://tgrdigitalagency.online/ · Last updated: 2026-11-22
+
+## What is TGR TestWorks?
+TGR TestWorks is a free Android app by TGR Digital Agency. You apply for app, website and game tests, report real bugs, and approved rewards go to your in-app wallet. Once your balance reaches ₹100 you can withdraw to your UPI ID.
+
+## How it works
+To earn on TGR TestWorks: 1) create a free account, 2) find a test in Explore and apply, 3) check your status in My Tests, 4) do the work and send honest bug reports, 5) withdraw to UPI once your balance reaches ₹100. You must be 18+ and use Android 5.0 or newer.
+
+1. **Create your account** – five short steps: personal details, contact, location, testing profile, security. You get a Reference ID after submitting.
+2. **Find and apply** – use Explore, filter by App, Web, Game or Software, read the terms to the end, tick the box and apply. Each tester can apply for a work once.
+3. **Follow your status** – Pending, Approved or Not selected in My Tests.
+4. **Test and report bugs** – do the work as described; report only what you really found; keep the company's product private.
+5. **Get paid** – approved rewards go to your wallet; withdraw from ₹100 to UPI.
+
+## Features
+- **Explore jobs**: Search by test or company name and filter by App, Web, Game or Software.
+- **My Tests**: See Pending, Approved and Not selected counts and the reward from approved tests.
+- **Clear work terms**: Every work has its own terms. Read to the end and tick to apply.
+- **Bug reports**: Send reports from inside the app and earn a reward when they are accepted.
+- **Wallet and earnings**: Total earned, withdrawn and recent activity, with a hide-balance option.
+- **UPI withdrawals**: Withdraw from ₹100 to the UPI app you already use.
+- **Transaction history**: Every credit and withdrawal with date, time and status.
+- **Refer and earn**: Share your code and earn when friends complete their tasks.
+- **Leaderboard**: See how you rank among other testers.
+- **Levels and badges**: Seven levels from Newcomer to Legend, plus Partner and Officer badges.
+- **Companies and ranks**: Top companies show paid out, testers and payout time, with a rank badge.
+- **Notifications**: Get notified when a test is approved or money is credited.
+- **Help and support**: Raise tickets in the app or reach us on WhatsApp and email.
+- **Profile and security**: Edit your profile, add a photo and change your password.
+
+## Types of testing work
+- **Websites** (Website, Test & bugs) – TGR Digital Agency; reward: ₹170
+- **Android app testing** (App, Test & bugs) – Partner companies; reward: Reward in app
+- **Game testing** (Game, Gameplay bugs) – Game studios; reward: Reward in app
+- **Website and landing page checks** (Web, Layout & forms) – Agencies and startups; reward: Reward in app
+- **Software and tool testing** (Software, Feature testing) – Software teams; reward: Reward in app
+- **Bug report tasks** (App, Written report) – Any partner company; reward: Bug report reward
+
+## Earnings and withdrawals
+Rewards are added to your TGR TestWorks wallet after a company approves your work. When your balance is at least ₹100, tap Withdraw, pick your UPI app, enter your UPI ID and amount, and confirm. The app does not verify the UPI ID, so check it carefully.
+
+Withdraw in five steps: tap Withdraw (balance at least ₹100) → choose UPI app → enter UPI ID → enter amount → confirm. A success screen shows payment details and the withdrawal appears in history. Work that is incomplete, copied or not done as described may be rejected without a reward.
+
+## Levels and badges
+- **Newcomer** (Level 1): Join TGR TestWorks
+- **Explorer** (Level 2): Complete 5 works
+- **Bug Hunter** (Level 3): Complete 15 works
+- **Pro Tester** (Level 4): Complete 40 works
+- **Expert** (Level 5): Complete 100 works
+- **Master** (Level 6): Complete 250 works
+- **Legend** (Level 7): Complete 500 works
+- **Partner** and **Officer** are special badges that cannot be earned by counting works.
+
+## Company ranks
+Check TGR TestWorks company ranks, from Starter to Diamond Elite. Ranks reflect what a company has paid testers and how fast it reviews and pays.
+
+- **Diamond Elite** – Highest payout · Fastest pay. Top of the table. This company has paid testers more than almost anyone on TGR TestWorks and reviews and pays among the fastest.
+- **Platinum Prime** – Top payout partner. A leading payer. Large total payouts to testers and a very quick review and payment time.
+- **Gold Premier** – Premium payer. A premium payer. Strong payouts to testers and reliable turnaround on every work.
+- **Emerald Trusted** – Trusted payer. A trusted payer. Testers are paid steadily and on time for approved work.
+- **Ruby Pro** – Consistent payer. A consistent payer with a healthy record of payouts to testers.
+- **Sapphire Plus** – Reliable payer. A reliable payer. Approved work is paid and the review time is fair.
+- **Amethyst** – Rising payer. A rising payer. Payouts are growing and more testers are being paid every month.
+- **Bronze** – Verified payer. A verified payer. The company has paid testers and passed TGR checks.
+- **Steel** – Active payer. An active payer. The company is running works and paying testers.
+- **Starter** – New payer. A new payer. The company has just started on TGR TestWorks and its record is still building.
+
+## Refer and earn
+Share your referral code from the Earnings tab. When a friend signs up with your code and completes 10 tasks, ₹50 is added to your Earnings balance. Only one account is allowed per device, and the reward amount and task count are set in the app and can change.
+
+## Rules and safety
+On TGR TestWorks rewards are added only after your work is checked and approved. Rules: one account per device, use your own account, report only real bugs, keep company products private, and do not use bots or scripts. Incomplete or copied work may be rejected without a reward.
+
+## Community
+TGR TestWorks has 30+ active testers, 100+ tests and 10 company rank badges. Community features include a leaderboard, seven levels with badges, ranked companies, referral rewards, notifications and support by ticket, email and WhatsApp.
+
+## Download and install
+Download app.apk from this page, open it, and allow Install from this source if Android asks. TGR TestWorks version 1.1 is free and works on Android 5.0 and above.
+
+Direct link: https://tgrdigitalagency.online/app.apk
+
+## Frequently asked questions
+### What is TGR TestWorks?
+TGR TestWorks is a free Android app by TGR Digital Agency. You test apps, websites and games, report bugs, and earn rewards that you can withdraw to your UPI ID.
+
+### Is TGR TestWorks free to use?
+Yes. Creating an account and applying for tests costs nothing. You only earn.
+
+### How much can I earn?
+Each test shows its own reward before you apply. Accepted bug reports can earn a reward too. Your total is always visible on the Earnings tab.
+
+### When can I withdraw?
+As soon as your available balance reaches ₹100. Choose your UPI app, enter your UPI ID and the amount, and confirm.
+
+### How do I install the APK?
+Download the file, open it and allow Install from this source if Android asks. The app will then install and open normally.
+
+### Which phones are supported?
+Any Android phone running Android 5.0 or newer.
+
+### Who makes TGR TestWorks?
+TGR TestWorks is built and run by TGR Digital Agency. You can reach the team at app@tgrdigitalagency.online or on WhatsApp at +91 89418 01033.
+
+### What can I test on TGR TestWorks?
+You can find work for Android apps, websites, games and software. Use the filters in the Explore tab to pick the type you like.
+
+### Do I need to pay or invest anything to start?
+No. Joining is free and you never pay to apply for a test.
+
+### Is my UPI ID verified by the app?
+No. Money is sent to the UPI ID you enter, so please check it carefully before you confirm.
+
+### Who can join?
+You must be 18 years or older and use your real name and true date of birth.
+
+### Why was I not selected for a test?
+Companies choose a limited number of testers per work. You can see the result in My Tests and apply for other jobs right away.
+
+### Can I make more than one account?
+No. Only one account can be created on a single device.
+
+### How does refer and earn work?
+Share your referral code. When your friend signs up with it and completes 10 tasks, ₹50 is added to your Earnings balance. The amount and task count are set in the app and can change.
+
+### How do I contact support?
+Go to Profile, then Help and Support, or message us on WhatsApp at +91 89418 01033 or by email at app@tgrdigitalagency.online.
+
+
+## Contact
+- WhatsApp / phone: +91 89418 01033 (https://wa.me/918941801033)
+- Email: app@tgrdigitalagency.online
+- In app: Profile → Help and Support → raise a ticket
+- Complaints are acknowledged within 24 hours and aimed to be resolved within 15 days.
+
+## Search topics this site covers
+- TGR TestWorks – Free Earning App to Test Apps & Get Paid: TGR TestWorks; TGR Digital Agency app; TGR Digital Agency earning app; TGR Digital Agency testing app; free earning app; app testing earning app; earn money by testing apps; app tester jobs India; website testing jobs; game testing jobs; bug reporting jobs; UPI earning app; earn money online India; work from home mobile jobs; paise kamane wala app; app test karke paise kamaye; no investment earning app; Android earning app; TGR TestWorks APK; get paid to test apps
+- How TGR TestWorks Works – Test Apps & Earn Step by Step: TGR TestWorks; TGR Digital Agency app; TGR Digital Agency earning app; TGR Digital Agency testing app; how to earn money by testing apps; how to become an app tester; app tester sign up; apply for app testing jobs; bug report earning; step by step earning app; earn from mobile phone; how TGR TestWorks works; app testing for beginners; test apps and get paid UPI; online testing jobs without investment; mobile app tester work from home; free app testing jobs; apps test karke paise kaise kamaye; beginner earning app India; app testing guide
+- TGR TestWorks Features – Wallet, UPI Payout, Bug Reports: TGR TestWorks; TGR Digital Agency app; TGR Digital Agency earning app; TGR Digital Agency testing app; earning app features; app testing app features; UPI withdrawal app; wallet earning app; bug report rewards; refer and earn app; earning app leaderboard; levels and badges app; notifications earning app; transaction history wallet; job search explore app; hide balance wallet app; support tickets app; secure earning app; Android testing app India; earning app with wallet
+- App, Website & Game Testing Jobs – TGR TestWorks: TGR TestWorks; TGR Digital Agency app; TGR Digital Agency earning app; TGR Digital Agency testing app; app testing jobs; website testing jobs; game testing jobs; software testing jobs online; bug testing jobs from home; mobile app tester jobs; web testing earn money; game tester jobs India; QA testing jobs for beginners; test apps for money; paid app testing; usability testing jobs; online tester jobs India; freelance app tester; test and report bugs; tester jobs from phone
+- Earn & Withdraw to UPI from ₹100 – TGR TestWorks: TGR TestWorks; TGR Digital Agency app; TGR Digital Agency earning app; TGR Digital Agency testing app; withdraw to UPI; minimum withdrawal 100 rupees; Google Pay earning app; PhonePe earning app; Paytm earning app; FamPay withdrawal; BHIM UPI earning app; UPI payout app; earn money Paytm; earn money Google Pay; wallet withdrawal app; paise kamane wala app UPI; approved test reward; bug report reward; referral reward balance; earning app withdrawal ₹100
+- Levels & Badges – Newcomer to Legend | TGR TestWorks: TGR TestWorks; TGR Digital Agency app; TGR Digital Agency earning app; TGR Digital Agency testing app; levels and badges; earning app levels; Newcomer Explorer Bug Hunter; Pro Tester Expert Master Legend; tester badges; gamified earning app; app tester levels; badge rewards app; Partner badge; Officer badge; level up tester; bug hunter badge; legend tester badge; leaderboard tester; tester ranking app; complete works level up
+- Company Ranks – Know Who Pays Testers | TGR TestWorks: TGR TestWorks; TGR Digital Agency app; TGR Digital Agency earning app; TGR Digital Agency testing app; company ranks; trusted companies earning app; Diamond Elite rank; Platinum Prime; Gold Premier; Emerald Trusted; Ruby Pro; Sapphire Plus; company payout rank; which company pays testers; fast paying companies; company leaderboard; tester payout time; trusted payer badge; ranked companies app; check company before applying
+- Refer & Earn – Invite Friends | TGR TestWorks: TGR TestWorks; TGR Digital Agency app; TGR Digital Agency earning app; TGR Digital Agency testing app; refer and earn app; referral earning app; invite friends earn money; referral code earning app; refer and earn India; earn by referring friends; referral reward ₹50; my referrals; friend completes 10 tasks; share referral code; app referral program; refer friends testing app; referral bonus app; earn from friends signup; referral rules; refer code sign up
+- TGR TestWorks Community – Real Testers, Real Payouts: TGR TestWorks; TGR Digital Agency app; TGR Digital Agency earning app; TGR Digital Agency testing app; tester community; earning app community; app testers India; 30+ testers; real payouts earning app; testing community app; leaderboard testers; join testers; tester support WhatsApp; honest testers; ranked companies; refer community; testers India online; growing community; join earning app; trusted testing community
+- Rules & Safety – Fair, Secure Testing | TGR TestWorks: TGR TestWorks; TGR Digital Agency app; TGR Digital Agency earning app; TGR Digital Agency testing app; safe earning app; is TGR TestWorks legit; earning app rules; fair play testing app; one device one account; honest bug reports; no bots earning app; confidential testing work; reviewed before payment; tester rules; account security app; password change app; terms and privacy policy app; reward rejected reasons; testing app safety; genuine testers only
+- TGR TestWorks FAQ – Withdrawals, APK Install, Eligibility: TGR TestWorks; TGR Digital Agency app; TGR Digital Agency earning app; TGR Digital Agency testing app; TGR TestWorks FAQ; is TGR TestWorks free; minimum withdrawal; how to install APK; install APK Android; TGR TestWorks withdrawal; UPI ID withdrawal; eligibility 18 years; one account per device; how much can I earn; why was I not selected; support WhatsApp; earning app questions; app testing questions; Android 5.0 supported; free earning app questions
+- Contact TGR TestWorks – WhatsApp, Email & Support: TGR TestWorks; TGR Digital Agency app; TGR Digital Agency earning app; TGR Digital Agency testing app; TGR TestWorks contact; TGR Digital Agency contact; TGR TestWorks WhatsApp; TGR Digital Agency WhatsApp number; TGR TestWorks support email; app support ticket; earning app customer care; complaint earning app; help and support app; TGR TestWorks helpline; app@tgrdigitalagency.online; contact app testing platform; reach TGR TestWorks; 24 hour complaint acknowledgment; support tickets; earning app help
+- Download TGR TestWorks APK – Free Android Earning App: TGR TestWorks; TGR Digital Agency app; TGR Digital Agency earning app; TGR Digital Agency testing app; TGR TestWorks APK download; TGR TestWorks APK; download earning app APK; Android APK download free; app.apk; install APK Android; TGR TestWorks latest version; TGR TestWorks version 1.1; free earning app download; app testing app download; Android 5.0 app; download tester app; earning app APK free; install from unknown source; official APK; download TGR Digital Agency app

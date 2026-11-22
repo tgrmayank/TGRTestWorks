@@ -1,0 +1,8 @@
+/* TEAM */
+Publisher: TGR Digital Agency
+Contact: app@tgrdigitalagency.online
+
+/* SITE */
+Last update: 2026-11-22
+Language: English (India)
+Standards: HTML5, CSS3, JSON-LD
